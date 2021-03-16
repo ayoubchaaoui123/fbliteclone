@@ -1,0 +1,29 @@
+body {
+font-family: 'Cairo', sans-serif;
+}
+*:focus {
+box-shadow: none !important;
+}
+.cover {
+height: 150px;
+margin-bottom: 50px;
+}
+.profile {
+height: 100px;
+width: 100px;
+}
+.profile-sm {
+height: 40px;
+width: 40px;
+}
+.edite {
+height: 30px;
+width: 30px;
+}
+hr {
+padding: 2px;
+}
+.active {
+color: var(--bs-primary);
+border-bottom-color: var(--bs-primary) !important;
+}
